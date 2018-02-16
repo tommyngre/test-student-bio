@@ -1,10 +1,24 @@
 body {
+  width: 300px;
   font-family: monospace;
   font-weight: bolder;
 }
 
+
 h1, h2 {
   margin:0px 0px 0px 0px;
+}
+
+#just-a-guy{
+  text-align: center;
+}
+
+img {
+  display:block;
+  border: 10px groove paleturquoise;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
 }
 
 .red-text {
