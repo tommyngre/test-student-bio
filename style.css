@@ -1,3 +1,18 @@
-.red {
+body {
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+h1, h2 {
+  margin:0px 0px 0px 0px;
+}
+
+.red-text {
   color: red;
+  background-color: green;
+}
+
+.green-text {
+  color: green;
+  background-color: red;
 }
